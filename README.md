@@ -13,4 +13,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
+
+## 🤓 My values
+🍏 Beginner's Research engineer <br>
+🙌 Sharing anything I learned<br>
+
+## 🔭 Goals of 2024
+girlfriend、ETF
+
+
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- C/C++、CUDA、MATLAB(Seldom)
+- Opencv、OpenGL
+
+### 🔧 Tool
+- 
+
+## 💡 Projects
+
+
+## 🔗 Get in touch
+- Personal blogger: 
+- Medium: 
